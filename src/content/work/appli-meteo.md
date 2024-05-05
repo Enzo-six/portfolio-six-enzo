@@ -24,3 +24,5 @@ en question, en direct. Grâce à l'API je peux afficher les informations qu'ell
 
 En conclusion, c'est un projet que j'ai aimé réaliser, il m'a permis d'en apprendre plus sur le langage Python et les API. L'application fonctionne bien, même si je compte
 y apporter des modifications, comme le fait d'apporter plus de détails sur la météo, ajouter des images en fonction du temps qu'il fait, changer le design...
+
+<p>Cliquez <a href="https://github.com/Enzo-six/appli-meteo-python/raw/main/dist/app/app.exe" download="appli-meteo">ici</a> pour tester mon projet.</p>
