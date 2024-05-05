@@ -11,15 +11,23 @@ tags:
   - Frontend
 ---
 
-L'objectif de cette application est de pouvoir faire une liste de choses à faire ou à acheter.
+L'objectif de cette application est de pouvoir s'amuser et d'améliorer sa culture générale en faisant
+deviner des drapeaux à l'utilisateur.
 
-Lorsque vous lancez mon application, un onglet Internet s'ouvre. Vous avez la possibilité d'entrer ce que vous voulez, des tâches à réaliser, votre liste de courses...
+Lorsque vous lancez mon application, un drapeau d'un pays s'affiche, vous avez 4 propositions, dont une 
+seule est correcte. Vous avez en tout 5 drapeaux à trouver.
 
-Dans la capture d'écran ci-contre, j'ai entré trois tâches à réaliser en guise d'exemple :(faire le ménage, finir de coder l'application, peaufiner le CV...).
-Lorsque l'on rafraîchi la page, les données restent telles qu'elles, elles sont sauvegardées en mémoire. L'utilisateur à la possibilité de supprimer les choses
-qu'il a écrit grâce aux boutons "Supprimer" situés à côtés des éléments.
+Dans la capture d'écran ci-contre, c'est le drapeau de la Colombie qui est affiché. Vous avez bien 4 
+propositions avec la Colombie, la Corée, l'Arabie Saoudite et l'Ouzbékistan. Lorsque vous sélectionnez
+le bon drapeau, le mot "Correct" s'affiche, sinon "Incorrect". A la fin de la partie, votre score est
+affiché en fonction du nombre de bonnes réponses.
 
-Pour développer cette application je me suis aidé de plusieurs choses. Dans un premier de temps, des langages HTML/CSS pour me permettre de réaliser mon interface web. Mais aussi, de JavaScript, c'est cet outil qui m'a permis de donner des commandes à mes boutons, JavaScript donne vie à mon site.
+Pour développer cette application je me suis aidé de plusieurs choses. Dans un premier de temps, des langages 
+HTML/CSS pour me permettre de réaliser l'interface de mon quizz. Mais aussi, de JavaScript, c'est cet outil qui 
+m'a permis de donner des commandes à mes boutons. Et pour finir, j'ai utilisé une API, l'API REST Countries,
+c'est grâce à elle que j'ai pu générér aléatoirement des pays et qui indique si le pays choisi par l'utlisateur
+est correct ou pas.
 
-En conclusion, c'est un projet que j'ai aimé réaliser, il m'a permis de travailler mes connaissances en développement front-end et de travailler JavaScript qui est un langage
-important. De plus, ce projet simple est utile, on peut s'en servir dans la vraie vie pour faire une liste.
+En conclusion, c'est un projet que j'ai aimé réaliser, il m'a permis de travailler mes connaissances en développement 
+front-end et de travailler JavaScript qui est un langage important. J'ai aussi pu manipuler les API, qui sont très 
+importantes car énormément utilisées au quotidien. De plus, ce projet simple est utile, amusant et enrichissant également.
