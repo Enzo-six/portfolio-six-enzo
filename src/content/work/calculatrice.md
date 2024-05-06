@@ -4,7 +4,7 @@ publishDate: 2019-10-02 00:00:00
 img: /assets/calculatrice.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  J'ai développé en JavaScript une simple calculatrice qui fonctionne comme il faut.
+  J'ai développé en JavaScript une simple calculatrice.
 tags:
   - Développement
   - Design
