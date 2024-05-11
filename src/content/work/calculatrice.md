@@ -10,7 +10,6 @@ tags:
   - Design
   - Frontend
 ---
-
 L'objectif de cette application est de pouvoir faire toutes sortes de calculs.
 
 Lorsque vous lancez mon application, un onglet Internet s'ouvre et une calculatrice apparaît.
